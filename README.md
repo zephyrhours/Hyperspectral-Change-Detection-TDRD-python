@@ -6,9 +6,7 @@ Fig.1. Framework of proposed threee-order Tucker decomposition-based hyperspectr
 
 # Prerequisites
 **Python 3.1x**<br />
-
-**Tip:**
-There may be problems when using Matlab2016 version for tensor processing, please use 2018 and above version.
+Python Implementation of the TDRD Algorithm
 
 # Source
 **Paper Download:**
