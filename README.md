@@ -1,4 +1,4 @@
-# Hyperspectyral-Change-Detection-TDRD
+# Hyperspectyral Change Detection TDRD Algorithm
 **Paper: Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection**
 
 <img src="workflow.jpg" alt="Cover" width="70%"/>
