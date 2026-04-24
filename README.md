@@ -5,8 +5,7 @@
 Fig.1. Framework of proposed threee-order Tucker decomposition-based hyperspectral change detection framework
 
 # Prerequisites
-**MATLAB R2018a**<br />
-**Tensor Toolbox 2.5**
+**Python 3.1x**<br />
 
 **Tip:**
 There may be problems when using Matlab2016 version for tensor processing, please use 2018 and above version.
